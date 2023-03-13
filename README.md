@@ -43,3 +43,5 @@ git config --global commit.gpgSign true
 ````sh
 git config --global tag.gpgSign true
 ````
+
+![Commi assinado](Screenshot_1.png)
